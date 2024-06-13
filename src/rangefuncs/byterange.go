@@ -1,4 +1,4 @@
-package byterange
+package rangefuncs
 
 import "fmt"
 
